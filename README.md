@@ -8,7 +8,7 @@
 
 <div align="center">
   <div style="display: inline-block; text-align: center;">
-    <img align="left" height="250" alt="coding-time" src="tec.gif" style="margin-right: 20px;">
+    
     <h1 style="color: #003366;">Habilidades</h1>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <img height="80" width="80" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586" style="margin: 10px;">
@@ -21,6 +21,7 @@
       <img height="80" width="80" alt="Novo Ícone 1" src="https://img.icons8.com/?size=100&id=fgTEEeY72Lw2&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="Novo Ícone 2" src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="Postman" src="https://img.icons8.com/?size=100&id=IoYmHUxgvrFB&format=png&color=000000" style="margin: 10px;">
+      <img height="80" width="80" alt="JSON" src="https://img.icons8.com/?size=100&id=JEdjysAt9zpf&format=png&color=000000" style="margin: 10px;">
     </div>
   </div>
 </div>
