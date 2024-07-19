@@ -24,8 +24,8 @@
 <br>
 
 <h1 align="center" style="color: #003366;">Redes Sociais</h1>
-<div style="text-align: center;">
-  <div style="display: inline-block; margin-top: 10px;">
+<div style="text-align: center; margin-top: 10px;">
+  <div style="display: inline-block;">
     <a href="mailto:erickbritto060@gmail.com">
       <img width="40" src="gmail.svg" alt="Gmail" style="margin: 0 10px;">
     </a>
@@ -37,6 +37,7 @@
     </a>
   </div>
 </div>
+
 
 
 
