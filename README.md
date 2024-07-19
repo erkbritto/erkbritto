@@ -24,16 +24,19 @@
 <br>
 
 <h1 align="center" style="color: #003366;">Redes Sociais</h1>
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <a href="mailto:erickbritto060@gmail.com">
-    <img width="30" src="gmail.svg" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/erkbritto/">
-    <img width="30" src="linkedin.svg" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/erkbritto/">
-    <img width="30" src="instagram.png" alt="Instagram">
-  </a>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="mailto:erickbritto060@gmail.com">
+      <img width="80" src="gmail.svg" alt="Gmail">
+    </a>
+    <a href="https://www.linkedin.com/in/erkbritto/">
+      <img width="80" src="linkedin.svg" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/erkbritto/">
+      <img width="80" src="instagram.png" alt="Instagram">
+    </a>
+  </div>
 </div>
+
 
 ![GitHub Snake](https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg)
