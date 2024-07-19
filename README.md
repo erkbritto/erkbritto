@@ -14,7 +14,7 @@
       <img height="80" width="80" alt="java" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin: 10px;">
       <img height="80" width="80" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin: 10px;">
-      <img height="80" width="80" alt="C#" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" style="margin: 10px;">
+      <img height="80" width="80" alt="C#" src="https://img.icons8.com/?size=100&id=mhwmyz1eu7T5&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="SQL" src="https://img.icons8.com/?size=100&id=v13GOfYIdvlQ&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="Javascript" src="https://github.com/user-attachments/assets/24292e27-9f89-4f7c-8823-28f62f6980f2" style="margin: 10px;">
       <img height="80" width="80" alt="Novo Ícone 2" src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000" style="margin: 10px;">
