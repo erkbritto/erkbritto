@@ -24,8 +24,8 @@
 <br>
 
 <h1 align="center" style="color: #003366;">Redes Sociais</h1>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="display: flex; justify-content: flex-start; gap: 20px; max-width: 100%; width: 300px;">
+<div align="center">
+  <div>
     <a href="mailto:erickbritto060@gmail.com">
       <img width="40" src="gmail.svg" alt="Gmail">
     </a>
