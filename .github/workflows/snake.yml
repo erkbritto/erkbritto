@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main  # ou a branch principal do seu repositório
+  schedule:
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: erkbritto
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-artifacts
+          path: dist/
