@@ -29,7 +29,7 @@
 <div style="text-align: center; margin-top: 10px;">
   <div style="display: inline-block;">
     <a href="mailto:erickbritto060@gmail.com">
-      <img width="40" src="gmail.svg" alt="Gmail" style="margin: 0 100px;">
+      <img width="40" src="gmail.svg" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/erkbritto/">
       <img width="40" src="linkedin.svg" alt="LinkedIn" style="margin: 0 10px;">
