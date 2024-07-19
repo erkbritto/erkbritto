@@ -12,8 +12,7 @@
     <img align="left" height="250" alt="coding-time" src="tec.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="java-gif" src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000">
-    <img align="center" height="30" width="40" alt="react-icon" src="![image](https://github.com/user-attachments/assets/a2c63eed-e380-41c4-bd19-1f06512b03db)
-">
+    <img align="center" height="30" width="40" alt="java-png" src="https://github.com/user-attachments/assets/22eaf839-9592-4002-889f-681be11a473d">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
