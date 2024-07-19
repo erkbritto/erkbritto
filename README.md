@@ -25,15 +25,15 @@
 
 <h1 align="center" style="color: #003366;">Redes Sociais</h1>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: flex-start; gap: 20px; max-width: 100%; width: 300px;">
     <a href="mailto:erickbritto060@gmail.com">
-      <img width="100" src="gmail.svg" alt="Gmail">
+      <img width="40" src="gmail.svg" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/erkbritto/">
-      <img width="80" src="linkedin.svg" alt="LinkedIn">
+      <img width="40" src="linkedin.svg" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/erkbritto/">
-      <img width="80" src="instagram.png" alt="Instagram">
+      <img width="40" src="instagram.png" alt="Instagram">
     </a>
   </div>
 </div>
