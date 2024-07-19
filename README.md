@@ -9,7 +9,7 @@
 <div align="center">
   <div style="display: inline-block; text-align: center;">
     <img align="left" height="250" alt="coding-time" src="tec.gif">
-    <h1 style="color: #003366;">Habilidades <3</h1>
+    <h1 style="color: blue;">Habilidades</h1>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <img height="80" width="80" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586" style="margin: 10px;">
       <img height="80" width="80" alt="java" src="https://github.com/user-attachments/assets/22eaf839-9592-4002-889f-681be11a473d" style="margin: 10px;">
