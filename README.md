@@ -1,15 +1,15 @@
-### Seja bem-vindo, Desenvolvedor! Prazer em recebê-lo aqui.
+<h1 align="center" style="color: #003366;">Seja bem-vindo, Desenvolvedor! Prazer em recebê-lo aqui.</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkbritto&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkbritto&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkbritto&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkbritto&layout=compact&langs_count=16&theme=great-gatsby" alt="Top Languages"/>
 </div>
 <br>
 
 <div align="center">
   <div style="display: inline-block; text-align: center;">
-    <img align="left" height="250" alt="coding-time" src="tec.gif">
-    <h1 color = "blue">Habilidades</h1>
+    <img align="left" height="250" alt="coding-time" src="tec.gif" style="margin-right: 20px;">
+    <h1 style="color: #003366;">Habilidades</h1>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <img height="80" width="80" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586" style="margin: 10px;">
       <img height="80" width="80" alt="java" src="https://github.com/user-attachments/assets/22eaf839-9592-4002-889f-681be11a473d" style="margin: 10px;">
@@ -38,8 +38,6 @@
   </div>
 </div>
 
-
-
-
+<br>
 
 ![GitHub Snake](https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg)
