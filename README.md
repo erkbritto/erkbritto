@@ -8,7 +8,6 @@
 
 <div align="center">
   <div style="display: inline-block; text-align: center;">
-    
     <h1 style="color: #003366;">Habilidades</h1>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
       <img height="80" width="80" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586" style="margin: 10px;">
