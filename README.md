@@ -17,7 +17,6 @@
       <img height="80" width="80" alt="C#" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="SQL" src="https://img.icons8.com/?size=100&id=v13GOfYIdvlQ&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="Javascript" src="https://github.com/user-attachments/assets/24292e27-9f89-4f7c-8823-28f62f6980f2" style="margin: 10px;">
-      <img height="80" width="80" alt="Novo Ícone 1" src="https://img.icons8.com/?size=100&id=fgTEEeY72Lw2&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="Novo Ícone 2" src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="Postman" src="https://img.icons8.com/?size=100&id=IoYmHUxgvrFB&format=png&color=000000" style="margin: 10px;">
       <img height="80" width="80" alt="JSON" src="https://img.icons8.com/?size=100&id=JEdjysAt9zpf&format=png&color=000000" style="margin: 10px;">
