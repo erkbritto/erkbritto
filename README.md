@@ -18,6 +18,8 @@
       <img height="80" width="80" alt="C#" src="https://github.com/user-attachments/assets/a6a09c2e-cf28-48b5-82b9-05d591bba345" style="margin: 10px;">
       <img height="80" width="80" alt="SQL" src="https://github.com/user-attachments/assets/5b9e1bea-6eee-4a7f-b897-f429c31c16d7" style="margin: 10px;">
       <img height="80" width="80" alt="Javascript" src="https://github.com/user-attachments/assets/24292e27-9f89-4f7c-8823-28f62f6980f2" style="margin: 10px;">
+      <img height="80" width="80" alt="Novo Ícone 1" src="https://img.icons8.com/?size=100&id=fgTEEeY72Lw2&format=png&color=000000" style="margin: 10px;">
+      <img height="80" width="80" alt="Novo Ícone 2" src="https://img.icons8.com/?size=100&id=16318&format=png&color=000000" style="margin: 10px;">
     </div>
   </div>
 </div>
