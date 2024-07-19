@@ -35,4 +35,4 @@
     </a>
 </div>
 
-![GitHub Snake](dist/github-snake.svg)
+![GitHub Snake](https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg)
