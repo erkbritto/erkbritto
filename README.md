@@ -24,7 +24,7 @@
 <br>
 
 <h1 align="center" style="color: #003366;">Redes Sociais</h1>
-<div align="left">
+<div align="right">
   <a href="mailto:erickbritto060@gmail.com">
     <img width="40" src="gmail.svg" alt="Gmail">
   </a>
