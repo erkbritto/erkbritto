@@ -11,13 +11,13 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="tec.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="java-gif" src="https://img.icons8.com/?size=100&id=ETDhNONw82Nc&format=png&color=000000">
-    <img align="center" height="30" width="40" alt="java-png" src="https://github.com/user-attachments/assets/22eaf839-9592-4002-889f-681be11a473d">
+    <img align="center" height="30" width="40" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586">
+    <img align="center" height="30" width="40" alt="java" src="https://github.com/user-attachments/assets/22eaf839-9592-4002-889f-681be11a473d">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="C#" src="https://github.com/user-attachments/assets/a6a09c2e-cf28-48b5-82b9-05d591bba345">
+    <img align="center" height="30" width="40" alt="SQL" src="https://github.com/user-attachments/assets/5b9e1bea-6eee-4a7f-b897-f429c31c16d7">
+    <img align="center" height="30" width="40" alt="Javascript" src="https://github.com/user-attachments/assets/24292e27-9f89-4f7c-8823-28f62f6980f2">
   </div>
 </div>
 
