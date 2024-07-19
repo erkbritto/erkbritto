@@ -42,4 +42,6 @@
 
 <br>
 
-![GitHub Snake](https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg)
+<div style="text-align: center;">
+    <img src="https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg" alt="GitHub Snake">
+</div>
