@@ -34,3 +34,5 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
+
+![GitHub Snake](dist/github-snake.svg)
