@@ -11,7 +11,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="tec.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586">
+    <img align="center" height="50" width="50" alt="python" src="https://github.com/user-attachments/assets/fc9f7ebd-00bd-4fe7-ba1c-8d40cfaeb586">
     <img align="center" height="30" width="40" alt="java" src="https://github.com/user-attachments/assets/22eaf839-9592-4002-889f-681be11a473d">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
