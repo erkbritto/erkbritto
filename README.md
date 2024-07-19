@@ -27,7 +27,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <a href="mailto:erickbritto060@gmail.com">
-      <img width="90" src="gmail.svg" alt="Gmail">
+      <img width="110" src="gmail.svg" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/erkbritto/">
       <img width="80" src="linkedin.svg" alt="LinkedIn">
