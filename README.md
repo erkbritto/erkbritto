@@ -104,7 +104,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Services performed for clients and organizations.
 
 #### 🍔 LancheFácil – Sistema completo para lanchonetes
 **Fast sales, real‑time inventory, professional receipts, and simplified financial management.**  
@@ -179,17 +179,15 @@ Landing pages de alta conversão e performance, cada uma com stack moderna e des
 ### 🏆 Certifications & Continuous Learning
 
 - 🎓 **B.Sc. in Computer Science** – University  
-- ☁️ **AWS Certified Solutions Architect** (Associate)  
+- ☁️ **Desenvolvedor fullstack** - IMPACTA TECNOLOGIA
 - 🤖 **Deep Learning Specialization** – deeplearning.ai  
-- 📊 **Microsoft Certified: Power BI Data Analyst**  
-- 🔧 **N8N Automation Expert**  
-- 🐍 **FastAPI & Modern Python**
+- 🔧 **N8N Automation Expert** 
 
 > *Always pursuing the next certification that adds real business value.*
 
 ---
 
-### 🚀 Transform your business
+### 🚀 Transform your business like
 
 - 🍔 **LancheFácil** → Agilidade + controle de estoque  
 - 📊 **Dashboard TR** → Visão 360° do call center  
