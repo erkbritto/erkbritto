@@ -28,7 +28,7 @@
 ### 🧠 High‑Value Skills (360° Stack)
 
 <div align="center">
-  <table>
+  <tr>
     <tr>
       <td valign="top" width="33%">
         <h3>📱 Frontend & Mobile</h3>
@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=elevenlabs&logoColor=white" />
         </p>
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
-      </td>
+       </td>
       <td valign="top">
         <h3>📊 Data & Analytics</h3>
         <p>
@@ -72,23 +72,23 @@
           <img src="https://img.shields.io/badge/ETL-2D6A4F?logo=etl&logoColor=white" />
         </p>
         <strong>Metabase • Power BI • ETL • Real‑Time Dashboards • Workflows • SaaS Premium</strong>
-      </td>
+       </td>
       <td valign="top">
         <h3>⚡ Automation & Tools</h3>
         <img src="https://img.shields.io/badge/n8n-1E1E2F?logo=n8n&logoColor=white" />
         <img src="https://skillicons.dev/icons?i=postman,git,docker,kubernetes,jenkins" />
         <br/>
         <strong>N8N • Postman • Git • Docker • Kubernetes • Jenkins • PM2 • CI/CD</strong>
-      </td>
-    </tr>
+       </td>
+     </tr>
     <tr>
       <td valign="top" colspan="3" align="center">
         <h3>🛠️ IDEs & Workflow</h3>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,arduino" />
         <strong>VS Code • Visual Studio • IntelliJ • Arduino IDE • Cursor • Windsurf • Draw.io • Cursor AI • Windsurf AI</strong>
-      </td>
-    </tr>
-  </table>
+       </td>
+     </tr>
+   </table>
 </div>
 
 ---
@@ -145,14 +145,32 @@
 
 ### 🎨 High‑Impact Landing Pages
 
-<table width="100%" border="0" cellpadding="8" cellspacing="0">
+Landing pages de alta conversão e performance, cada uma com stack moderna e design responsivo.
+
+<table width="100%" border="0" cellpadding="16" cellspacing="0">
   <tr>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" width="95%" style="border-radius:8px;"></td>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" valign="top" align="center">
+      <h3>🎯 Audinaka Solutions</h3>
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20audinaka.png" width="95%" style="border-radius:8px;">
+      <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Framer Motion • TanStack Query • React Router DOM • Recharts • Sonner</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>🍔 LancheFácil Landing</h3>
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20lanchefacil.png" width="95%" style="border-radius:8px;">
+      <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Framer Motion • Lucide React • localStorage • CSS Gradients</p>
+    </td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" width="95%" style="border-radius:8px;"></td>
-    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" valign="top" align="center">
+      <h3>👨‍💼 Serginho Consultoria</h3>
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20site%20serginho.png" width="95%" style="border-radius:8px;">
+      <p><strong>Stack:</strong> HTML5 • CSS3 • JavaScript • Python (servidor HTTP) • Font Awesome • Google Fonts • CSS Variables • Animações personalizadas</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>💈 Salão WhatsApp (em breve)</h3>
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landng%20salao.png" width="95%" style="border-radius:8px;">
+      <p><strong>Stack:</strong> React • TypeScript • Tailwind • Node.js • API Evolution • Webhooks</p>
+    </td>
   </tr>
 </table>
 
