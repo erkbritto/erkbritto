@@ -45,8 +45,8 @@
         <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br/>
         <strong>MySQL • PostgreSQL • OracleDB • AuroraDB • Supabase • SQL Server</strong>
       </td>
-    </tr>
-    <tr>
+     </tr>
+     <tr>
       <td valign="top">
         <h3>🤖 AI & LLMs (Expert)</h3>
         <p>
@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=elevenlabs&logoColor=white" />
         </p>
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
-      </td>
+       </td>
       <td valign="top">
         <h3>📊 Data & Analytics</h3>
         <p>
@@ -72,23 +72,23 @@
           <img src="https://img.shields.io/badge/ETL-2D6A4F?logo=etl&logoColor=white" />
         </p>
         <strong>Metabase • Power BI • ETL • Real‑Time Dashboards • Workflows • SaaS Premium</strong>
-      </td>
+       </td>
       <td valign="top">
         <h3>⚡ Automation & Tools</h3>
         <img src="https://img.shields.io/badge/n8n-1E1E2F?logo=n8n&logoColor=white" />
         <img src="https://skillicons.dev/icons?i=postman,git,docker,kubernetes,jenkins" />
         <br/>
         <strong>N8N • Postman • Git • Docker • Kubernetes • Jenkins • PM2 • CI/CD</strong>
-      </td>
-    </tr>
-    <tr>
+       </td>
+     </tr>
+     <tr>
       <td valign="top" colspan="3" align="center">
         <h3>🛠️ IDEs & Workflow</h3>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,arduino" />
         <strong>VS Code • Visual Studio • IntelliJ • Arduino IDE • Cursor • Windsurf • Draw.io • Cursor AI • Windsurf AI</strong>
-      </td>
-    </tr>
-  </table>
+       </td>
+     </tr>
+   </table>
 </div>
 
 ---
@@ -113,19 +113,13 @@
         <h3>🍔 LancheFácil</h3>
         <p><strong>Complete management system for snack bars</strong> – fast sales, real‑time inventory, professional receipts, and simplified financial management. Each sale updates stock automatically, reducing errors and increasing efficiency.</p>
         <p><strong>🛠️ Stack:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • multiple integrated libs (axios, react-query, etc.)</p>
-        <p><strong>📸 Preview:</strong><br/>
-          <!-- 👇 SUBSTITUA este link pela imagem real do seu projeto LancheFácil -->
-          <img src="https://via.placeholder.com/400x200?text=LancheFácil+Demo" alt="LancheFácil" width="100%"/>
-        </p>
+        <p><em>📸 Screenshots available soon</em></p>
       </td>
       <td width="50%">
         <h3>📊 Dashboard TR SYS (Call Center)</h3>
         <p><strong>Intelligence center for call centers</strong> – real‑time metrics on attendance, team performance, financial results, communication, and conversions. Interactive dashboard with integrated ETL and continuous updates.</p>
         <p><strong>🛠️ Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • custom ETL</p>
-        <p><strong>📸 Preview:</strong><br/>
-          <!-- 👇 SUBSTITUA este link pela imagem real do seu Dashboard TR -->
-          <img src="https://via.placeholder.com/400x200?text=Dashboard+TR+SYS" alt="Dashboard TR" width="100%"/>
-        </p>
+        <p><em>📸 Screenshots available soon</em></p>
       </td>
     </tr>
     <tr>
@@ -133,10 +127,7 @@
         <h3>⚡ LeadFlow Automation</h3>
         <p><strong>B2B prospecting automation</strong> – automatically identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution integrated). Reduces prospecting cycle from days to hours.</p>
         <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution (WhatsApp/messaging) • Webhooks</p>
-        <p><strong>📸 Preview:</strong><br/>
-          <!-- 👇 SUBSTITUA este link pela imagem real do seu LeadFlow -->
-          <img src="https://via.placeholder.com/800x200?text=LeadFlow+Workflow" alt="LeadFlow" width="100%"/>
-        </p>
+        <p><em>📸 Screenshots available soon</em></p>
       </td>
     </tr>
   </table>
@@ -188,7 +179,8 @@ We create solutions that automate and organize your operations, helping you sell
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <!-- 👇 Certifique-se de que o arquivo snake existe no seu repositório (erkbritto/erkbritto). Caso contrário, remova ou substitua esta seção -->
+  <!-- ⚠️ Certifique-se de que o arquivo snake existe em https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg -->
+  <!-- Se não existir, remova a linha abaixo ou substitua por outro conteúdo -->
   <img src="https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
