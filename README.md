@@ -28,7 +28,7 @@
 ### 🧠 High‑Value Skills (360° Stack)
 
 <div align="center">
-  <tr>
+  <table>
     <tr>
       <td valign="top" width="33%">
         <h3>📱 Frontend & Mobile</h3>
@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=elevenlabs&logoColor=white" />
         </p>
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
-       </td>
+      </td>
       <td valign="top">
         <h3>📊 Data & Analytics</h3>
         <p>
@@ -72,23 +72,23 @@
           <img src="https://img.shields.io/badge/ETL-2D6A4F?logo=etl&logoColor=white" />
         </p>
         <strong>Metabase • Power BI • ETL • Real‑Time Dashboards • Workflows • SaaS Premium</strong>
-       </td>
+      </td>
       <td valign="top">
         <h3>⚡ Automation & Tools</h3>
         <img src="https://img.shields.io/badge/n8n-1E1E2F?logo=n8n&logoColor=white" />
         <img src="https://skillicons.dev/icons?i=postman,git,docker,kubernetes,jenkins" />
         <br/>
         <strong>N8N • Postman • Git • Docker • Kubernetes • Jenkins • PM2 • CI/CD</strong>
-       </td>
-     </tr>
+      </td>
+    </tr>
     <tr>
       <td valign="top" colspan="3" align="center">
         <h3>🛠️ IDEs & Workflow</h3>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,arduino" />
         <strong>VS Code • Visual Studio • IntelliJ • Arduino IDE • Cursor • Windsurf • Draw.io • Cursor AI • Windsurf AI</strong>
-       </td>
-     </tr>
-   </table>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -106,9 +106,9 @@
 
 ### 🚀 Featured Projects
 
-#### 🍔 LancheFácil
-**Complete management system for snack bars** – fast sales, real‑time inventory, professional receipts, and simplified financial management.  
-**🛠️ Stack:** MySQL • React • TypeScript • Vite • Python (FastAPI)
+#### 🍔 LancheFácil – Sistema completo para lanchonetes
+**Fast sales, real‑time inventory, professional receipts, and simplified financial management.**  
+**Stack completa:** React 18 • TypeScript • Vite • Tailwind CSS • shadcn/ui • Framer Motion • React Hook Form • Zod • TanStack React Query • React Router DOM • Node.js • Express • Sequelize • MySQL 8.0 • JWT • Bcrypt • MercadoPago SDK (PIX) • Helmet • CORS • Winston • Axios • Recharts • Embla Carousel • Next Themes • Sonner • PostCSS • ESLint • Vitest • Supabase SDK
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
@@ -123,9 +123,9 @@
 
 <br>
 
-#### ⚡ LeadFlow Automation
-**B2B prospecting automation** – identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution). Reduces prospecting cycle from days to hours.  
-**🛠️ Stack:** N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution
+#### ⚡ LeadFlow Automation – Automação de prospecção B2B
+**Captura leads do Google Maps e dispara mensagens via WhatsApp Web com dashboard em tempo real.**  
+**Stack completa:** Python 3 • FastAPI • WebSocket • Uvicorn • Selenium WebDriver • Chrome Headless • React 18 • TypeScript • Vite • Tailwind CSS • shadcn/ui • TanStack Query • React Router DOM • JSON persistence • Vitest • ESLint
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
@@ -137,8 +137,8 @@
 <br>
 
 #### 📊 Dashboard TR SYS (Call Center)
-**Intelligence center for call centers** – real‑time metrics on attendance, team performance, financial results, communication, and conversions.  
-**🛠️ Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • custom ETL  
+**Intelligence center for call centers** – real‑time metrics, team performance, financial results.  
+**Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • ETL  
 *📸 Screenshots serão adicionadas em breve*
 
 ---
@@ -162,14 +162,14 @@ Landing pages de alta conversão e performance, cada uma com stack moderna e des
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h3>👨‍💼 Serginho Consultoria</h3>
+      <h3>👨‍💼 Lourens Consultoria</h3>
       <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20site%20serginho.png" width="95%" style="border-radius:8px;">
       <p><strong>Stack:</strong> HTML5 • CSS3 • JavaScript • Python (servidor HTTP) • Font Awesome • Google Fonts • CSS Variables • Animações personalizadas</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>💈 Salão WhatsApp (em breve)</h3>
+      <h3>💈 Salão de Beleza</h3>
       <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landng%20salao.png" width="95%" style="border-radius:8px;">
-      <p><strong>Stack:</strong> React • TypeScript • Tailwind • Node.js • API Evolution • Webhooks</p>
+      <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Radix UI • Lucide React • React Hook Form • Zod • React Router DOM • TanStack Query • Next Themes • Sonner • Recharts • Embla Carousel • Vaul • Cmdk • date-fns • ESLint • Bun/npm</p>
     </td>
   </tr>
 </table>
