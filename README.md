@@ -178,11 +178,11 @@ We create solutions that automate and organize your operations, helping you sell
 
 ### 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <!-- ⚠️ Certifique-se de que o arquivo snake existe em https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg -->
-  <!-- Se não existir, remova a linha abaixo ou substitua por outro conteúdo -->
-  <img src="https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erkbritto/erkbritto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erkbritto/erkbritto/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation showing GitHub contributions" src="https://raw.githubusercontent.com/erkbritto/erkbritto/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
