@@ -1,36 +1,31 @@
-<!--
-  ███████╗██████╗ ██╗  ██╗    ██████╗ ██████╗ ██╗████████╗████████╗ ██████╗ 
-  ██╔════╝██╔══██╗██║ ██╔╝    ██╔══██╗██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔═══██╗
-  █████╗  ██████╔╝█████╔╝     ██████╔╝██████╔╝██║   ██║      ██║   ██║   ██║
-  ██╔══╝  ██╔══██╗██╔═██╗     ██╔══██╗██╔══██╗██║   ██║      ██║   ██║   ██║
-  ██║     ██║  ██║██║  ██╗    ██████╔╝██║  ██║██║   ██║      ██║   ╚██████╔╝
-  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝    ╚═════╝ 
-  Perfil profissional de Erick de Britto Carvalho
-  Engenheiro de Software | Cientista da Computação | AI, Cloud & Data
--->
+<!-- ===================================================================
+     ERICK DE BRITTO CARVALHO - SOFTWARE ENGINEER
+     B.Sc. in Computer Science | AI, Cloud & Data Architecture
+     =================================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=2D6A4F&center=true&vCenter=true&width=900&lines=Erick+de+Britto+Carvalho;Engenheiro+de+Software;Cientista+da+Computação;AI+%7C+Cloud+%7C+Data+Architect;Fullstack+%26+Systems+Analyst" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2D6A4F&center=true&vCenter=true&width=900&lines=Erick+de+Britto+Carvalho;Software+Engineer;B.Sc.+in+Computer+Science;AI+%7C+Cloud+%7C+Data+Architect;Fullstack+%26+Systems+Analyst" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erkbritto&label=Profile%20Views&color=2D6A4F&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/erkbritto?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/followers/erkbritto?label=Followers&style=social" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2D6A4F?style=flat-square" />
   <img src="https://img.shields.io/badge/📍-Brazil-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/🧠-AI%20Expert-blue?style=flat-square" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
-> **Software Engineer** e **Formado em Ciências da Computação** com paixão por transformar ideias em soluções escaláveis e inteligentes.  
-> Especialista em **Inteligência Artificial**, **Cloud Computing** e **Engenharia de Dados**, desenvolvo desde aplicações fullstack de alto desempenho até orquestração de agentes de IA, automação de workflows com N8N e dashboards estratégicos em tempo real.  
-> Acredito que dados são o novo petróleo e código é a ferramenta para refiná-lo. Vivo no cruzamento entre inovação, performance e impacto real nos negócios.
+> **Software Engineer** and **Bachelor's in Computer Science** passionate about turning ideas into scalable, intelligent solutions.  
+> Specialized in **Artificial Intelligence**, **Cloud Computing**, and **Data Engineering** — building everything from high‑performance fullstack applications to AI agent orchestration, workflow automation with N8N, and real‑time strategic dashboards.  
+> I believe data is the new oil, and code is the refinery. I thrive at the intersection of innovation, performance, and real business impact.
 
 ---
 
-### 🧠 Habilidades de Alto Valor (Stack 360°)
+### 🧠 High‑Value Skills (360° Stack)
 
 <div align="center">
   <table>
@@ -46,18 +41,18 @@
         <strong>Node.js • Python • Java • C# • .NET • FastAPI • AWS • Azure</strong>
       </td>
       <td valign="top" width="33%">
-        <h3>🗄️ Bancos de Dados</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br/>
+        <h3>🗄️ Databases</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br/>
         <strong>MySQL • PostgreSQL • OracleDB • AuroraDB • Supabase • SQL Server</strong>
       </td>
     </tr>
     <tr>
       <td valign="top">
-        <h3>🤖 IA & LLMs (Expert)</h3>
+        <h3>🤖 AI & LLMs (Expert)</h3>
         <p>
           <img src="https://img.shields.io/badge/Claude_Code-1C3C3C?logo=anthropic&logoColor=white" />
           <img src="https://img.shields.io/badge/Codex-412991?logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/DeepSeek-4F46E5?logo=data:image/svg+xml;base64,...&logoColor=white" />
+          <img src="https://img.shields.io/badge/DeepSeek-4F46E5?logo=deepseek&logoColor=white" />
           <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" />
           <img src="https://img.shields.io/badge/Lovable-FF4785?logo=love&logoColor=white" />
           <img src="https://img.shields.io/badge/SWE--1-007ACC?logo=github&logoColor=white" />
@@ -65,7 +60,7 @@
           <img src="https://img.shields.io/badge/X_AI-000000?logo=x&logoColor=white" />
           <img src="https://img.shields.io/badge/Manus_AI-FF6B6B?logo=ai&logoColor=white" />
           <img src="https://img.shields.io/badge/Nano_Banana-FFD700?logo=banana&logoColor=black" />
-          <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=voice&logoColor=white" />
+          <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=elevenlabs&logoColor=white" />
         </p>
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
       </td>
@@ -74,7 +69,7 @@
         <p>
           <img src="https://img.shields.io/badge/Metabase-5091CD?logo=metabase&logoColor=white" />
           <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
-          <img src="https://img.shields.io/badge/ETL-2D6A4F?logo=data:image/svg+xml;base64,..." />
+          <img src="https://img.shields.io/badge/ETL-2D6A4F?logo=etl&logoColor=white" />
         </p>
         <strong>Metabase • Power BI • ETL • Real‑Time Dashboards • Workflows • SaaS Premium</strong>
       </td>
@@ -98,7 +93,7 @@
 
 ---
 
-### 📈 GitHub Analytics & Conquistas
+### 📈 GitHub Analytics & Achievements
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkbritto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D6A4F&icon_color=2D6A4F" />
@@ -111,23 +106,23 @@
 
 ---
 
-### 🚀 Projetos em Destaque (últimos 12 meses)
+### 🚀 Featured Projects (Last 12 months)
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3>🍔 LancheFácil</h3>
-        <p><strong>Sistema completo para gestão de lanchonetes</strong> – vendas rápidas, controle de estoque em tempo real, emissão de recibos profissionais e gestão financeira simplificada. Cada venda atualiza o estoque automaticamente, reduzindo erros e aumentando a eficiência do atendimento.</p>
-        <p><strong>🛠️ Stack correta:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • diversas libs integradas (axios, react-query, etc.)</p>
+        <p><strong>Complete management system for snack bars</strong> – fast sales, real‑time inventory, professional receipts, and simplified financial management. Each sale updates stock automatically, reducing errors and increasing efficiency.</p>
+        <p><strong>🛠️ Stack:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • multiple integrated libs (axios, react-query, etc.)</p>
         <p><strong>📸 Preview:</strong><br/>
-          <img src="https://via.placeholder.com/400x200?text=LancheFácil+em+ação" alt="LancheFácil" width="100%"/>
+          <img src="https://via.placeholder.com/400x200?text=LancheFácil+Demo" alt="LancheFácil" width="100%"/>
         </p>
       </td>
       <td width="50%">
         <h3>📊 Dashboard TR SYS (Call Center)</h3>
-        <p><strong>Centro de inteligência para call centers</strong> – métricas de atendimento, desempenho da equipe, resultados financeiros, comunicação e conversões em tempo real. Dashboard interativo com ETL integrado e atualização contínua.</p>
-        <p><strong>🛠️ Stack correta:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • ETL customizado</p>
+        <p><strong>Intelligence center for call centers</strong> – real‑time metrics on attendance, team performance, financial results, communication, and conversions. Interactive dashboard with integrated ETL and continuous updates.</p>
+        <p><strong>🛠️ Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • custom ETL</p>
         <p><strong>📸 Preview:</strong><br/>
           <img src="https://via.placeholder.com/400x200?text=Dashboard+TR+SYS" alt="Dashboard TR" width="100%"/>
         </p>
@@ -136,8 +131,8 @@
     <tr>
       <td colspan="2" align="center">
         <h3>⚡ LeadFlow Automation</h3>
-        <p><strong>Automação de prospecção B2B</strong> – identifica automaticamente empresas com alto potencial, enriquece dados e inicia contato personalizado via múltiplos canais (API Evolution integrada). Reduz o ciclo de prospecção de dias para horas.</p>
-        <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution (whatsapp/mensageria) • Webhooks</p>
+        <p><strong>B2B prospecting automation</strong> – automatically identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution integrated). Reduces prospecting cycle from days to hours.</p>
+        <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution (WhatsApp/messaging) • Webhooks</p>
         <p><strong>📸 Preview:</strong><br/>
           <img src="https://via.placeholder.com/800x200?text=LeadFlow+Workflow" alt="LeadFlow" width="100%"/>
         </p>
@@ -148,32 +143,32 @@
 
 ---
 
-### 🏆 Certificações & Formação Contínua
+### 🏆 Certifications & Continuous Learning
 
-- 🎓 **Bacharel em Ciência da Computação** – Universidade (nome da sua faculdade)  
+- 🎓 **B.Sc. in Computer Science** – University (your university name)  
 - ☁️ **AWS Certified Solutions Architect** (Associate)  
 - 🤖 **Deep Learning Specialization** – deeplearning.ai  
 - 📊 **Microsoft Certified: Power BI Data Analyst**  
 - 🔧 **N8N Automation Expert** – Workflow design & integration  
 - 🐍 **FastAPI & Modern Python** – Advanced APIs  
 
-> *Sempre em busca da próxima certificação que agregue valor real aos negócios.*
+> *Always pursuing the next certification that adds real business value.*
 
 ---
 
-### 🚀 Transforme seu negócio com mais controle, menos esforço e mais resultados
+### 🚀 Transform your business with more control, less effort, and better results
 
-Criamos soluções que automatizam e organizam sua operação, ajudando você a vender mais, ganhar tempo e crescer com segurança.
+We create solutions that automate and organize your operations, helping you sell more, save time, and grow safely.
 
-- 🍔 **LancheFácil** → Agilidade no atendimento + controle de estoque sem retrabalho.  
-- 📊 **Dashboard TR** → Visão 360° do call center com dados em tempo real.  
-- ⚡ **LeadFlow** → Geração automática de leads qualificados com follow-up inteligente.  
+- 🍔 **LancheFácil** → Faster service + inventory control without rework.  
+- 📊 **Dashboard TR** → 360° call center view with real‑time data.  
+- ⚡ **LeadFlow** → Automatic qualified lead generation with intelligent follow‑up.  
 
-📈 **Resultado comprovado:** mais vendas, processos organizados, decisões mais rápidas e lucro consistente.
+📈 **Proven results:** more sales, organized processes, faster decisions, and consistent profit.
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Where to find me
 
 <p align="center">
   <a href="https://www.instagram.com/erkbritto/" target="_blank">
@@ -182,9 +177,6 @@ Criamos soluções que automatizam e organizam sua operação, ajudando você a 
   <a href="https://www.linkedin.com/in/erkbritto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:erick@britto.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://github.com/erkbritto" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
   </a>
@@ -192,7 +184,7 @@ Criamos soluções que automatizam e organizam sua operação, ajudando você a 
 
 ---
 
-### 🐍 Contribuição no GitHub (Snake Game)
+### 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -200,15 +192,15 @@ Criamos soluções que automatizam e organizam sua operação, ajudando você a 
 
 ---
 
-### 📌 Roadmap de Estudos & Próximos Passos
+### 📌 Study Roadmap & Next Steps
 
-- [ ] Especialização em **LLMOps** (LangSmith, Weights & Biases)  
-- [ ] Certificação **Google Cloud Professional Data Engineer**  
-- [ ] Contribuir para projetos open-source de **IA responsável**  
-- [ ] Lançar **versão SaaS** do Dashboard TR com multi-tenant  
+- [ ] Specialization in **LLMOps** (LangSmith, Weights & Biases)  
+- [ ] **Google Cloud Professional Data Engineer** certification  
+- [ ] Contribute to open‑source **responsible AI** projects  
+- [ ] Launch **SaaS version** of Dashboard TR with multi‑tenancy  
 
 ---
 
 <p align="center">
-  <i>"Construindo o futuro com código, dados e inteligência artificial."</i>
+  <i>"Building the future with code, data, and artificial intelligence."</i>
 </p>
