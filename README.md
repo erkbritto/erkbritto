@@ -93,15 +93,13 @@
 
 ---
 
-### 📈 GitHub Analytics & Achievements
+### 📈 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkbritto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D6A4F&icon_color=2D6A4F" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkbritto&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D6A4F" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkbritto&theme=radical&hide_border=true&background=0D1117&stroke=2D6A4F&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=erkbritto&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -116,6 +114,7 @@
         <p><strong>Complete management system for snack bars</strong> – fast sales, real‑time inventory, professional receipts, and simplified financial management. Each sale updates stock automatically, reducing errors and increasing efficiency.</p>
         <p><strong>🛠️ Stack:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • multiple integrated libs (axios, react-query, etc.)</p>
         <p><strong>📸 Preview:</strong><br/>
+          <!-- 👇 SUBSTITUA este link pela imagem real do seu projeto LancheFácil -->
           <img src="https://via.placeholder.com/400x200?text=LancheFácil+Demo" alt="LancheFácil" width="100%"/>
         </p>
       </td>
@@ -124,6 +123,7 @@
         <p><strong>Intelligence center for call centers</strong> – real‑time metrics on attendance, team performance, financial results, communication, and conversions. Interactive dashboard with integrated ETL and continuous updates.</p>
         <p><strong>🛠️ Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • custom ETL</p>
         <p><strong>📸 Preview:</strong><br/>
+          <!-- 👇 SUBSTITUA este link pela imagem real do seu Dashboard TR -->
           <img src="https://via.placeholder.com/400x200?text=Dashboard+TR+SYS" alt="Dashboard TR" width="100%"/>
         </p>
       </td>
@@ -134,6 +134,7 @@
         <p><strong>B2B prospecting automation</strong> – automatically identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution integrated). Reduces prospecting cycle from days to hours.</p>
         <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution (WhatsApp/messaging) • Webhooks</p>
         <p><strong>📸 Preview:</strong><br/>
+          <!-- 👇 SUBSTITUA este link pela imagem real do seu LeadFlow -->
           <img src="https://via.placeholder.com/800x200?text=LeadFlow+Workflow" alt="LeadFlow" width="100%"/>
         </p>
       </td>
@@ -187,6 +188,7 @@ We create solutions that automate and organize your operations, helping you sell
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
+  <!-- 👇 Certifique-se de que o arquivo snake existe no seu repositório (erkbritto/erkbritto). Caso contrário, remova ou substitua esta seção -->
   <img src="https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
