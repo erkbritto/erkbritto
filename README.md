@@ -155,7 +155,7 @@ Landing pages de alta conversão e performance, cada uma com stack moderna e des
       <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Framer Motion • TanStack Query • React Router DOM • Recharts • Sonner</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🍔 LancheFácil Landing</h3>
+      <h3>🍔 LancheFácil </h3>
       <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20lanchefacil.png" width="95%" style="border-radius:8px;">
       <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Framer Motion • Lucide React • localStorage • CSS Gradients</p>
     </td>
