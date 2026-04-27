@@ -15,21 +15,20 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Generate the snake files
+      - name: Generate snake files
         uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: erkbritto
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN_SNAKE }}
 
-      - name: Deploy to branch 'output'
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN_SNAKE }}
           publish_dir: ./dist
           publish_branch: output
           force_orphan: true
