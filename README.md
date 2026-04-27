@@ -109,37 +109,44 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="50%" valign="top">
+      <td colspan="2">
         <h3>🍔 LancheFácil</h3>
         <p><strong>Complete management system for snack bars</strong> – fast sales, real‑time inventory, professional receipts, and simplified financial management. Each sale updates stock automatically, reducing errors and increasing efficiency.</p>
         <p><strong>🛠️ Stack:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • multiple integrated libs</p>
-        <details>
-          <summary>📸 Clique para ver screenshots (5 imagens)</summary>
-          <br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/vendas%20lanche%20facil.png" width="100%" alt="Vendas LancheFácil"><br/><br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/Dashboard%20inicial%20lanchefacil.png" width="100%" alt="Dashboard Inicial"><br/><br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/cardapio%20lanche%20facil.png" width="100%" alt="Cardápio"><br/><br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/relatorios%20lanchefacil.png" width="100%" alt="Relatórios"><br/><br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20salao%20whatsapp.png" width="100%" alt="Salão WhatsApp">
-        </details>
-      </td>
-      <td width="50%" valign="top">
-        <h3>⚡ LeadFlow Automation</h3>
-        <p><strong>B2B prospecting automation</strong> – automatically identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution integrated). Reduces prospecting cycle from days to hours.</p>
-        <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution • Webhooks</p>
-        <details>
-          <summary>📸 Clique para ver screenshots (2 imagens)</summary>
-          <br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20busca%20feita.png" width="100%" alt="LeadFlow busca"><br/><br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20dashboard.png" width="100%" alt="LeadFlow dashboard">
-        </details>
+        <div align="center">
+          <table width="100%">
+            <tr>
+              <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/vendas%20lanche%20facil.png" width="100%" alt="Vendas LancheFácil"></td>
+              <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/Dashboard%20inicial%20lanchefacil.png" width="100%" alt="Dashboard Inicial"></td>
+            </tr>
+            <tr>
+              <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/cardapio%20lanche%20facil.png" width="100%" alt="Cardápio"></td>
+              <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/relatorios%20lanchefacil.png" width="100%" alt="Relatórios"></td>
+            </tr>
+          </table>
+        </div>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" valign="top">
-        <h3>📊 Dashboard TR SYS (Call Center) – em breve</h3>
-        <p><strong>Intelligence center for call centers</strong> – real‑time metrics, team performance, financial results, communication, conversions. Interactive dashboard with ETL integration.</p>
-        <p><strong>🛠️ Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • custom ETL</p>
+      <td colspan="2">
+        <h3>⚡ LeadFlow Automation</h3>
+        <p><strong>B2B prospecting automation</strong> – automatically identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution integrated). Reduces prospecting cycle from days to hours.</p>
+        <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution • Webhooks</p>
+        <div align="center">
+          <table width="100%">
+            <tr>
+              <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20busca%20feita.png" width="100%" alt="LeadFlow busca"></td>
+              <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20dashboard.png" width="100%" alt="LeadFlow dashboard"></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3>📊 Dashboard TR SYS (Call Center)</h3>
+        <p><strong>Intelligence center for call centers</strong> – real‑time metrics on attendance, team performance, financial results, communication, and conversions. Interactive dashboard with integrated ETL and continuous updates.</p>
+        <p><strong>🛠️ Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • custom ETL</p>
         <p><em>📸 Screenshots serão adicionadas em breve</em></p>
       </td>
     </tr>
@@ -148,42 +155,18 @@
 
 ---
 
-### 🎨 High‑Impact Landing Pages (Portfolio de Design & Conversão)
+### 🎨 High‑Impact Landing Pages
 
 <div align="center">
   <p>Landing pages de alto nível criadas por mim, com foco em conversão, UX e performance.</p>
   <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <details>
-          <summary>📌 Landing Page 1</summary>
-          <br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" width="100%" alt="Landing page 1">
-        </details>
-      </td>
-      <td width="50%" align="center">
-        <details>
-          <summary>📌 Landing Page 2</summary>
-          <br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" width="100%" alt="Landing page 2">
-        </details>
-      </td>
+      <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" width="100%" alt="Landing page 1"></td>
+      <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" width="100%" alt="Landing page 2"></td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <details>
-          <summary>📌 Landing Page 3</summary>
-          <br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" width="100%" alt="Landing page 3">
-        </details>
-      </td>
-      <td width="50%" align="center">
-        <details>
-          <summary>📌 Landing Page 4</summary>
-          <br/>
-          <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" width="100%" alt="Landing page 4">
-        </details>
-      </td>
+      <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" width="100%" alt="Landing page 3"></td>
+      <td width="50%"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" width="100%" alt="Landing page 4"></td>
     </tr>
   </table>
 </div>
@@ -208,7 +191,7 @@
 We create solutions that automate and organize your operations, helping you sell more, save time, and grow safely.
 
 - 🍔 **LancheFácil** → Faster service + inventory control without rework.  
-- 📊 **Dashboard TR** → 360° call center view with real‑time data (em breve).  
+- 📊 **Dashboard TR** → 360° call center view with real‑time data.  
 - ⚡ **LeadFlow** → Automatic qualified lead generation with intelligent follow‑up.  
 - 🎨 **Landing Pages** → High‑conversion, responsive, modern designs.
 
