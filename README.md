@@ -1,11 +1,11 @@
 <!--
   PERFIL PROFISSIONAL - ERICK DE BRITTO CARVALHO
-  Fullstack Developer | System Analyst | AI & Cloud Expert
-  Design moderno, responsivo e com branding de alto valor.
+  Engenheiro de Software | Cientista da Computação | AI, Cloud & Data
+  README atualizado e otimizado para branding de alto valor.
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2D6A4F&center=true&vCenter=true&width=700&lines=Erick+de+Britto+Carvalho;Fullstack+%26+System+Analyst;AI+%7C+LLM+%7C+Cloud+Architect;BI+%26+Analytics+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2D6A4F&center=true&vCenter=true&width=800&lines=Erick+de+Britto+Carvalho;Engenheiro+de+Software;Cientista+da+Computação;AI+%7C+Cloud+%7C+Data+Expert" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,14 +18,13 @@
 
 ### 👨‍💻 Sobre mim
 
-> **+10 anos de experiência** transformando ideias em soluções escaláveis.  
-> Atualmente **Desenvolvedor Fullstack** e **Analista de Sistemas**, com foco em **Inteligência Artificial**, **Cloud Computing** e **Engenharia de Dados**.  
-> Construo projetos de grande porte, integro **LLMs**, orquestro fluxos com **N8N**, crio dashboards estratégicos em **Metabase/Power BI** e automatizo processos de ponta a ponta.  
-> Também atuo com **Arduino**, **IoT** e **automação industrial**.  
+> Engenheiro de Software e Cientista da Computação, especialista em **Inteligência Artificial**, **Cloud Computing** e **Engenharia de Dados**.  
+> Desenvolvo soluções de ponta a ponta, desde aplicações fullstack até orquestração de agentes de IA, automação de workflows com N8N e criação de dashboards estratégicos em tempo real.  
+> Apaixonado por transformar dados em decisões e código em impacto real.
 
 ---
 
-### 🧠 Habilidades de Alto Valor (Stack Atualizada)
+### 🧠 Habilidades de Alto Valor
 
 <div align="center">
   <table>
@@ -43,7 +42,7 @@
       <td valign="top" width="33%">
         <h3>🗄️ Bancos de Dados</h3>
         <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /><br/>
-        <strong>MySQL • PostgreSQL • OracleDB • Supabase • SQL Server</strong>
+        <strong>MySQL • PostgreSQL • OracleDB • AuroraDB • Supabase • SQL Server</strong>
       </td>
     </tr>
     <tr>
@@ -65,14 +64,14 @@
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
        </td>
       <td valign="top">
-        <h3>📊 BI & Analytics</h3>
+        <h3>📊 Data & Analytics</h3>
         <img src="https://skillicons.dev/icons?i=powerbi" />
         <img src="https://img.icons8.com/color/48/000000/metabase.png" width="40"/>
         <br/>
-        <strong>Metabase • Power BI • ETL • Dashboards SaaS Premium • Real‑Time • Workflows</strong>
+        <strong>Metabase • Power BI • ETL • Real‑Time Dashboards • Workflows • SaaS Premium</strong>
        </td>
       <td valign="top">
-        <h3>⚡ Automação & Tools</h3>
+        <h3>⚡ Automation & Tools</h3>
         <img src="https://img.shields.io/badge/n8n-1E1E2F?logo=n8n&logoColor=white" />
         <img src="https://skillicons.dev/icons?i=postman,git,docker,kubernetes,jenkins" />
         <br/>
@@ -91,7 +90,7 @@
 
 ---
 
-### 📈 Estatísticas & Performance
+### 📈 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkbritto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D6A4F&icon_color=2D6A4F" />
@@ -102,32 +101,36 @@
 
 ---
 
-### 🚀 Projetos em Destaque (últimos 12 meses)
+### 🚀 Projetos em Destaque
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3>🍔 LancheFácil</h3>
-        <p>O <strong>LancheFácil</strong> é mais do que um sistema — é a base para transformar sua lanchonete em um negócio organizado, ágil e profissional.<br/>
-        Ele centraliza tudo o que você precisa no dia a dia: vendas rápidas, controle automático de estoque e emissão de recibos bem apresentados, garantindo mais agilidade no atendimento e menos erros na operação. Tudo funciona de forma simples, permitindo que você foque no que realmente importa: vender mais e atender melhor.<br/>
-        Com ele, cada venda já atualiza o estoque, cada atendimento é mais rápido e cada cliente recebe uma experiência mais profissional. O resultado é um negócio mais eficiente, com menos desperdício, mais controle e muito mais confiança na gestão.<br/>
-        <strong>Stack:</strong> React, TypeScript, Node.js, PostgreSQL, Docker</p>
+        <p>Automação completa para lanchonetes: vendas rápidas, controle de estoque em tempo real, emissão de recibos e gestão financeira simplificada. Cada venda atualiza o estoque automaticamente, garantindo agilidade e redução de erros.</p>
+        <p><strong>Stack:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • diversas libs integradas.</p>
+        <p><strong>Imagem representativa:</strong><br/>
+          <img src="https://via.placeholder.com/400x200?text=LancheFácil+Preview" alt="LancheFácil" width="100%"/>
+        </p>
       </td>
       <td width="50%">
-        <h3>📊 Dashboard TR (Call Center)</h3>
-        <p>O <strong>Dashboard TR</strong> é mais do que uma ferramenta de gestão — é o centro de inteligência que transforma completamente a forma como um call center opera, decide e cresce.<br/>
-        Ele reúne, em um único ambiente, tudo o que realmente importa: atendimentos, desempenho da equipe, resultados financeiros, comunicação e conversões. Em vez de informações espalhadas, você passa a ter uma visão clara, organizada e em tempo real de toda a operação.<br/>
-        <strong>Stack:</strong> Metabase, Power BI, Python (ETL), SQL Server, AWS</p>
+        <h3>📊 Dashboard TR SYS (Call Center)</h3>
+        <p>Centro de inteligência para call centers: métricas de atendimento, desempenho de equipe, resultados financeiros, comunicação e conversões em tempo real. Controle total da operação com dashboards interativos e ETL integrado.</p>
+        <p><strong>Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • ETL.</p>
+        <p><strong>Imagem representativa:</strong><br/>
+          <img src="https://via.placeholder.com/400x200?text=Dashboard+TR+Preview" alt="Dashboard TR" width="100%"/>
+        </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <h3>⚡ LeadFlow Automation</h3>
-        <p>O <strong>LeadFlow Automation</strong> é uma solução criada para ajudar empresas a encontrar novos clientes de forma automática e contínua.<br/>
-        Ele faz todo o trabalho pesado por você: identifica empresas que têm potencial para se tornarem clientes e inicia o contato de forma organizada e personalizada. Tudo isso acontece de forma rápida, escalável e sem complicação.<br/>
-        Na prática, o LeadFlow transforma um processo que antes levava dias — pesquisar contatos, organizar informações e enviar mensagens — em algo feito em poucas horas, com muito mais alcance e eficiência.<br/>
-        <strong>Stack:</strong> N8N, OpenAI API, PostgreSQL, React, TypeScript</p>
+        <p>Solução automatizada de prospecção B2B: identifica potenciais clientes, enriquece dados e inicia contato personalizado via múltiplos canais (API Evolution integrada). Reduz de dias para horas o ciclo de prospecção.</p>
+        <p><strong>Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution.</p>
+        <p><strong>Imagem representativa:</strong><br/>
+          <img src="https://via.placeholder.com/800x200?text=LeadFlow+Workflow" alt="LeadFlow" width="100%"/>
+        </p>
       </td>
     </tr>
   </table>
@@ -139,14 +142,12 @@
 
 Criamos soluções que automatizam e organizam sua operação, ajudando você a vender mais, ganhar tempo e crescer com segurança.
 
-Com ferramentas como:
-- **LancheFácil** (agilidade no atendimento),
-- **Dashboard TR** (controle total do negócio),
-- **LeadFlow** (geração automática de clientes),
+**Ferramentas estratégicas:**
+- **LancheFácil** → Agilidade no atendimento e controle de estoque.
+- **Dashboard TR** → Visão 360° do call center com dados em tempo real.
+- **LeadFlow** → Geração automática de leads qualificados.
 
-você sai do manual e passa a ter uma operação moderna, eficiente e profissional.
-
-📈 **Resultado:** mais vendas, mais organização e decisões mais rápidas.
+📈 **Resultado:** mais vendas, mais organização, decisões mais rápidas e lucro consistente.
 
 ---
 
