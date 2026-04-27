@@ -29,7 +29,7 @@
 
 <div align="center">
   <table>
-    </table>
+    <tr>
       <td valign="top" width="33%">
         <h3>📱 Frontend & Mobile</h3>
         <img src="https://skillicons.dev/icons?i=react,ts,vite,js,html,css,tailwind" /><br/>
@@ -107,24 +107,24 @@
 ### 🚀 Featured Projects
 
 #### 🍔 LancheFácil
-**Complete management system for snack bars** – fast sales, real‑time inventory, professional receipts, and simplified financial management. Each sale updates stock automatically, reducing errors and increasing efficiency.  
-**🛠️ Stack:** MySQL • React • TypeScript • Vite • Python (FastAPI) • multiple integrated libs
+**Complete management system for snack bars** – fast sales, real‑time inventory, professional receipts, and simplified financial management.  
+**🛠️ Stack:** MySQL • React • TypeScript • Vite • Python (FastAPI)
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/vendas%20lanche%20facil.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Vendas LancheFácil">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/vendas%20lanche%20facil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Vendas">
     </div>
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/Dashboard%20inicial%20lanchefacil.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Dashboard Inicial">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/Dashboard%20inicial%20lanchefacil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Dashboard Inicial">
     </div>
   </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 12px;">
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/cardapio%20lanche%20facil.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Cardápio">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/cardapio%20lanche%20facil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Cardápio">
     </div>
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/relatorios%20lanchefacil.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Relatórios">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/relatorios%20lanchefacil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Relatórios">
     </div>
   </div>
 </div>
@@ -132,16 +132,16 @@
 <br>
 
 #### ⚡ LeadFlow Automation
-**B2B prospecting automation** – automatically identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution integrated). Reduces prospecting cycle from days to hours.  
-**🛠️ Stack:** N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution • Webhooks
+**B2B prospecting automation** – identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution). Reduces prospecting cycle from days to hours.  
+**🛠️ Stack:** N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <div style="flex: 1; min-width: 250px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20busca%20feita.png" style="width: 100%; max-width: 450px; height: auto; border-radius: 8px;" alt="LeadFlow busca">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+    <div style="flex: 1; min-width: 250px; max-width: 48%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20busca%20feita.png" style="width: 100%; height: auto; border-radius: 8px;" alt="LeadFlow busca">
     </div>
-    <div style="flex: 1; min-width: 250px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20dashboard.png" style="width: 100%; max-width: 450px; height: auto; border-radius: 8px;" alt="LeadFlow dashboard">
+    <div style="flex: 1; min-width: 250px; max-width: 48%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20dashboard.png" style="width: 100%; height: auto; border-radius: 8px;" alt="LeadFlow dashboard">
     </div>
   </div>
 </div>
@@ -149,31 +149,29 @@
 <br>
 
 #### 📊 Dashboard TR SYS (Call Center)
-**Intelligence center for call centers** – real‑time metrics on attendance, team performance, financial results, communication, and conversions. Interactive dashboard with integrated ETL and continuous updates.  
-**🛠️ Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • custom ETL  
+**Intelligence center for call centers** – real‑time metrics on attendance, team performance, financial results, communication, and conversions.  
+**🛠️ Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • custom ETL  
 *📸 Screenshots serão adicionadas em breve*
 
 ---
 
 ### 🎨 High‑Impact Landing Pages
 
-Landing pages de alto nível criadas por mim, com foco em conversão, UX e performance.
-
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Landing page 1">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 1">
     </div>
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Landing page 2">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 2">
     </div>
   </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin-top: 12px;">
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Landing page 3">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 3">
     </div>
-    <div style="flex: 1; min-width: 200px;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" alt="Landing page 4">
+    <div style="flex: 1; min-width: 200px; max-width: 45%;">
+      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 4">
     </div>
   </div>
 </div>
@@ -182,42 +180,34 @@ Landing pages de alto nível criadas por mim, com foco em conversão, UX e perfo
 
 ### 🏆 Certifications & Continuous Learning
 
-- 🎓 **B.Sc. in Computer Science** – University (your university name)  
+- 🎓 **B.Sc. in Computer Science** – University  
 - ☁️ **AWS Certified Solutions Architect** (Associate)  
 - 🤖 **Deep Learning Specialization** – deeplearning.ai  
 - 📊 **Microsoft Certified: Power BI Data Analyst**  
-- 🔧 **N8N Automation Expert** – Workflow design & integration  
-- 🐍 **FastAPI & Modern Python** – Advanced APIs  
+- 🔧 **N8N Automation Expert**  
+- 🐍 **FastAPI & Modern Python**
 
 > *Always pursuing the next certification that adds real business value.*
 
 ---
 
-### 🚀 Transform your business with more control, less effort, and better results
+### 🚀 Transform your business
 
-We create solutions that automate and organize your operations, helping you sell more, save time, and grow safely.
+- 🍔 **LancheFácil** → Agilidade + controle de estoque  
+- 📊 **Dashboard TR** → Visão 360° do call center  
+- ⚡ **LeadFlow** → Geração automática de leads  
+- 🎨 **Landing Pages** → Design de alta conversão  
 
-- 🍔 **LancheFácil** → Faster service + inventory control without rework.  
-- 📊 **Dashboard TR** → 360° call center view with real‑time data.  
-- ⚡ **LeadFlow** → Automatic qualified lead generation with intelligent follow‑up.  
-- 🎨 **Landing Pages** → High‑conversion, responsive, modern designs.
-
-📈 **Proven results:** more sales, organized processes, faster decisions, and consistent profit.
+📈 **Resultados:** mais vendas, organização, decisões rápidas e lucro.
 
 ---
 
 ### 📫 Where to find me
 
 <p align="center">
-  <a href="https://www.instagram.com/erkbritto/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/erkbritto/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/erkbritto" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
+  <a href="https://www.instagram.com/erkbritto/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/erkbritto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/erkbritto"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
@@ -232,12 +222,12 @@ We create solutions that automate and organize your operations, helping you sell
 
 ---
 
-### 📌 Study Roadmap & Next Steps
+### 📌 Study Roadmap
 
-- [ ] Specialization in **LLMOps** (LangSmith, Weights & Biases)  
-- [ ] **Google Cloud Professional Data Engineer** certification  
-- [ ] Contribute to open‑source **responsible AI** projects  
-- [ ] Launch **SaaS version** of Dashboard TR with multi‑tenancy  
+- [ ] LLMOps (LangSmith, W&B)  
+- [ ] Google Cloud Professional Data Engineer  
+- [ ] Contribuir para IA responsável open‑source  
+- [ ] SaaS version do Dashboard TR multi‑tenant  
 
 ---
 
