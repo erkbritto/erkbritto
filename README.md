@@ -1,30 +1,36 @@
 <!--
-  PERFIL PROFISSIONAL - ERICK DE BRITTO CARVALHO
+  ███████╗██████╗ ██╗  ██╗    ██████╗ ██████╗ ██╗████████╗████████╗ ██████╗ 
+  ██╔════╝██╔══██╗██║ ██╔╝    ██╔══██╗██╔══██╗██║╚══██╔══╝╚══██╔══╝██╔═══██╗
+  █████╗  ██████╔╝█████╔╝     ██████╔╝██████╔╝██║   ██║      ██║   ██║   ██║
+  ██╔══╝  ██╔══██╗██╔═██╗     ██╔══██╗██╔══██╗██║   ██║      ██║   ██║   ██║
+  ██║     ██║  ██║██║  ██╗    ██████╔╝██║  ██║██║   ██║      ██║   ╚██████╔╝
+  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝      ╚═╝    ╚═════╝ 
+  Perfil profissional de Erick de Britto Carvalho
   Engenheiro de Software | Cientista da Computação | AI, Cloud & Data
-  README atualizado e otimizado para branding de alto valor.
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=2D6A4F&center=true&vCenter=true&width=800&lines=Erick+de+Britto+Carvalho;Engenheiro+de+Software;Cientista+da+Computação;AI+%7C+Cloud+%7C+Data+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=2D6A4F&center=true&vCenter=true&width=900&lines=Erick+de+Britto+Carvalho;Engenheiro+de+Software;Cientista+da+Computação;AI+%7C+Cloud+%7C+Data+Architect;Fullstack+%26+Systems+Analyst" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=erkbritto&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=erkbritto&label=Profile%20Views&color=2D6A4F&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/erkbritto?label=Follow&style=social" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2D6A4F?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Brazil-green?style=flat-square" />
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-> Engenheiro de Software e Cientista da Computação, especialista em **Inteligência Artificial**, **Cloud Computing** e **Engenharia de Dados**.  
-> Desenvolvo soluções de ponta a ponta, desde aplicações fullstack até orquestração de agentes de IA, automação de workflows com N8N e criação de dashboards estratégicos em tempo real.  
-> Apaixonado por transformar dados em decisões e código em impacto real.
+> **Software Engineer** e **Formado em Ciências da Computação** com paixão por transformar ideias em soluções escaláveis e inteligentes.  
+> Especialista em **Inteligência Artificial**, **Cloud Computing** e **Engenharia de Dados**, desenvolvo desde aplicações fullstack de alto desempenho até orquestração de agentes de IA, automação de workflows com N8N e dashboards estratégicos em tempo real.  
+> Acredito que dados são o novo petróleo e código é a ferramenta para refiná-lo. Vivo no cruzamento entre inovação, performance e impacto real nos negócios.
 
 ---
 
-### 🧠 Habilidades de Alto Valor
+### 🧠 Habilidades de Alto Valor (Stack 360°)
 
 <div align="center">
   <table>
@@ -62,73 +68,77 @@
           <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=voice&logoColor=white" />
         </p>
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
-       </td>
+      </td>
       <td valign="top">
         <h3>📊 Data & Analytics</h3>
-        <img src="https://skillicons.dev/icons?i=powerbi" />
-        <img src="https://img.icons8.com/color/48/000000/metabase.png" width="40"/>
-        <br/>
+        <p>
+          <img src="https://img.shields.io/badge/Metabase-5091CD?logo=metabase&logoColor=white" />
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
+          <img src="https://img.shields.io/badge/ETL-2D6A4F?logo=data:image/svg+xml;base64,..." />
+        </p>
         <strong>Metabase • Power BI • ETL • Real‑Time Dashboards • Workflows • SaaS Premium</strong>
-       </td>
+      </td>
       <td valign="top">
         <h3>⚡ Automation & Tools</h3>
         <img src="https://img.shields.io/badge/n8n-1E1E2F?logo=n8n&logoColor=white" />
         <img src="https://skillicons.dev/icons?i=postman,git,docker,kubernetes,jenkins" />
         <br/>
         <strong>N8N • Postman • Git • Docker • Kubernetes • Jenkins • PM2 • CI/CD</strong>
-       </td>
+      </td>
     </tr>
     <tr>
       <td valign="top" colspan="3" align="center">
         <h3>🛠️ IDEs & Workflow</h3>
         <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,arduino" />
         <strong>VS Code • Visual Studio • IntelliJ • Arduino IDE • Cursor • Windsurf • Draw.io • Cursor AI • Windsurf AI</strong>
-       </td>
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 GitHub Analytics & Conquistas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erkbritto&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D6A4F&icon_color=2D6A4F" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkbritto&layout=compact&langs_count=12&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D6A4F" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erkbritto&theme=radical&hide_border=true&background=0D1117&stroke=2D6A4F&ring=2D6A4F&fire=2D6A4F&currStreakLabel=2D6A4F" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=erkbritto&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque (últimos 12 meses)
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3>🍔 LancheFácil</h3>
-        <p>Automação completa para lanchonetes: vendas rápidas, controle de estoque em tempo real, emissão de recibos e gestão financeira simplificada. Cada venda atualiza o estoque automaticamente, garantindo agilidade e redução de erros.</p>
-        <p><strong>Stack:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • diversas libs integradas.</p>
-        <p><strong>Imagem representativa:</strong><br/>
-          <img src="https://via.placeholder.com/400x200?text=LancheFácil+Preview" alt="LancheFácil" width="100%"/>
+        <p><strong>Sistema completo para gestão de lanchonetes</strong> – vendas rápidas, controle de estoque em tempo real, emissão de recibos profissionais e gestão financeira simplificada. Cada venda atualiza o estoque automaticamente, reduzindo erros e aumentando a eficiência do atendimento.</p>
+        <p><strong>🛠️ Stack correta:</strong> MySQL • React • TypeScript • Vite • Python (FastAPI) • diversas libs integradas (axios, react-query, etc.)</p>
+        <p><strong>📸 Preview:</strong><br/>
+          <img src="https://via.placeholder.com/400x200?text=LancheFácil+em+ação" alt="LancheFácil" width="100%"/>
         </p>
       </td>
       <td width="50%">
         <h3>📊 Dashboard TR SYS (Call Center)</h3>
-        <p>Centro de inteligência para call centers: métricas de atendimento, desempenho de equipe, resultados financeiros, comunicação e conversões em tempo real. Controle total da operação com dashboards interativos e ETL integrado.</p>
-        <p><strong>Stack:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • ETL.</p>
-        <p><strong>Imagem representativa:</strong><br/>
-          <img src="https://via.placeholder.com/400x200?text=Dashboard+TR+Preview" alt="Dashboard TR" width="100%"/>
+        <p><strong>Centro de inteligência para call centers</strong> – métricas de atendimento, desempenho da equipe, resultados financeiros, comunicação e conversões em tempo real. Dashboard interativo com ETL integrado e atualização contínua.</p>
+        <p><strong>🛠️ Stack correta:</strong> React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • MySQL Connector • ETL customizado</p>
+        <p><strong>📸 Preview:</strong><br/>
+          <img src="https://via.placeholder.com/400x200?text=Dashboard+TR+SYS" alt="Dashboard TR" width="100%"/>
         </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <h3>⚡ LeadFlow Automation</h3>
-        <p>Solução automatizada de prospecção B2B: identifica potenciais clientes, enriquece dados e inicia contato personalizado via múltiplos canais (API Evolution integrada). Reduz de dias para horas o ciclo de prospecção.</p>
-        <p><strong>Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution.</p>
-        <p><strong>Imagem representativa:</strong><br/>
+        <p><strong>Automação de prospecção B2B</strong> – identifica automaticamente empresas com alto potencial, enriquece dados e inicia contato personalizado via múltiplos canais (API Evolution integrada). Reduz o ciclo de prospecção de dias para horas.</p>
+        <p><strong>🛠️ Stack:</strong> N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution (whatsapp/mensageria) • Webhooks</p>
+        <p><strong>📸 Preview:</strong><br/>
           <img src="https://via.placeholder.com/800x200?text=LeadFlow+Workflow" alt="LeadFlow" width="100%"/>
         </p>
       </td>
@@ -138,16 +148,28 @@
 
 ---
 
-### 🚀 Transforme seu negócio com mais controle, menos esforço e mais resultados.
+### 🏆 Certificações & Formação Contínua
+
+- 🎓 **Bacharel em Ciência da Computação** – Universidade (nome da sua faculdade)  
+- ☁️ **AWS Certified Solutions Architect** (Associate)  
+- 🤖 **Deep Learning Specialization** – deeplearning.ai  
+- 📊 **Microsoft Certified: Power BI Data Analyst**  
+- 🔧 **N8N Automation Expert** – Workflow design & integration  
+- 🐍 **FastAPI & Modern Python** – Advanced APIs  
+
+> *Sempre em busca da próxima certificação que agregue valor real aos negócios.*
+
+---
+
+### 🚀 Transforme seu negócio com mais controle, menos esforço e mais resultados
 
 Criamos soluções que automatizam e organizam sua operação, ajudando você a vender mais, ganhar tempo e crescer com segurança.
 
-**Ferramentas estratégicas:**
-- **LancheFácil** → Agilidade no atendimento e controle de estoque.
-- **Dashboard TR** → Visão 360° do call center com dados em tempo real.
-- **LeadFlow** → Geração automática de leads qualificados.
+- 🍔 **LancheFácil** → Agilidade no atendimento + controle de estoque sem retrabalho.  
+- 📊 **Dashboard TR** → Visão 360° do call center com dados em tempo real.  
+- ⚡ **LeadFlow** → Geração automática de leads qualificados com follow-up inteligente.  
 
-📈 **Resultado:** mais vendas, mais organização, decisões mais rápidas e lucro consistente.
+📈 **Resultado comprovado:** mais vendas, processos organizados, decisões mais rápidas e lucro consistente.
 
 ---
 
@@ -163,15 +185,27 @@ Criamos soluções que automatizam e organizam sua operação, ajudando você a 
   <a href="mailto:erick@britto.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://github.com/erkbritto" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-### 🐍 Contribuição no GitHub
+### 🐍 Contribuição no GitHub (Snake Game)
 
 <div align="center">
   <img src="https://github.com/erkbritto/erkbritto/raw/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+### 📌 Roadmap de Estudos & Próximos Passos
+
+- [ ] Especialização em **LLMOps** (LangSmith, Weights & Biases)  
+- [ ] Certificação **Google Cloud Professional Data Engineer**  
+- [ ] Contribuir para projetos open-source de **IA responsável**  
+- [ ] Lançar **versão SaaS** do Dashboard TR com multi-tenant  
 
 ---
 
