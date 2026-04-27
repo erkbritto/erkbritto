@@ -63,7 +63,7 @@
           <img src="https://img.shields.io/badge/ElevenLabs-00BFFF?logo=elevenlabs&logoColor=white" />
         </p>
         <strong>Claude Code • Codex • DeepSeek • Vercel AI • Lovable • SWE-1 • ChatGPT • xAI • Manus AI • Nano Banana • ElevenLabs • +LLMs</strong>
-       </td>
+      </td>
       <td valign="top">
         <h3>📊 Data & Analytics</h3>
         <p>
@@ -110,24 +110,16 @@
 **Complete management system for snack bars** – fast sales, real‑time inventory, professional receipts, and simplified financial management.  
 **🛠️ Stack:** MySQL • React • TypeScript • Vite • Python (FastAPI)
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/vendas%20lanche%20facil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Vendas">
-    </div>
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/Dashboard%20inicial%20lanchefacil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Dashboard Inicial">
-    </div>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/cardapio%20lanche%20facil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Cardápio">
-    </div>
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/relatorios%20lanchefacil.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Relatórios">
-    </div>
-  </div>
-</div>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/vendas%20lanche%20facil.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/Dashboard%20inicial%20lanchefacil.png" width="95%" style="border-radius:8px;"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/cardapio%20lanche%20facil.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/relatorios%20lanchefacil.png" width="95%" style="border-radius:8px;"></td>
+  </tr>
+</table>
 
 <br>
 
@@ -135,16 +127,12 @@
 **B2B prospecting automation** – identifies high‑potential companies, enriches data, and initiates personalized contact via multiple channels (API Evolution). Reduces prospecting cycle from days to hours.  
 **🛠️ Stack:** N8N • OpenAI API • PostgreSQL • React • TypeScript • API Evolution
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-    <div style="flex: 1; min-width: 250px; max-width: 48%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20busca%20feita.png" style="width: 100%; height: auto; border-radius: 8px;" alt="LeadFlow busca">
-    </div>
-    <div style="flex: 1; min-width: 250px; max-width: 48%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20dashboard.png" style="width: 100%; height: auto; border-radius: 8px;" alt="LeadFlow dashboard">
-    </div>
-  </div>
-</div>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20busca%20feita.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/leadflow%20dashboard.png" width="95%" style="border-radius:8px;"></td>
+  </tr>
+</table>
 
 <br>
 
@@ -157,24 +145,16 @@
 
 ### 🎨 High‑Impact Landing Pages
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 1">
-    </div>
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 2">
-    </div>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 16px;">
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 3">
-    </div>
-    <div style="flex: 1; min-width: 200px; max-width: 45%;">
-      <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" style="width: 100%; height: auto; border-radius: 8px;" alt="Landing 4">
-    </div>
-  </div>
-</div>
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%201.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landingpage%202.png" width="95%" style="border-radius:8px;"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%203.png" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%204.png" width="95%" style="border-radius:8px;"></td>
+  </tr>
+</table>
 
 ---
 
