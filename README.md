@@ -136,10 +136,20 @@
 
 <br>
 
-#### 📊 Dashboard TR SYS (Call Center)
-**Intelligence center for call centers** – real‑time metrics, team performance, financial results.  
-**Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • ETL  
-*📸 Screenshots serão adicionadas em breve*
+#### 📊 Dashboard TR SYS (Call Center) – Plataforma de gestão de cobrança e desempenho
+**Intelligence center for call centers** – métricas em tempo real, desempenho da equipe, resultados financeiros, comunicação e conversões.  
+**Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • ETL
+
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/dashboard%20tr1.jpeg" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/dashboard%20tr2.jpeg" width="95%" style="border-radius:8px;"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/dashboard%20tr3.jpeg" width="95%" style="border-radius:8px;"></td>
+    <td width="50%" align="center"><img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/dashboard%20tr4.jpeg" width="95%" style="border-radius:8px;"></td>
+  </tr>
+</table>
 
 ---
 
@@ -155,7 +165,7 @@ Landing pages de alta conversão e performance, cada uma com stack moderna e des
       <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Framer Motion • TanStack Query • React Router DOM • Recharts • Sonner</p>
     </td>
     <td width="50%" valign="top" align="center">
-      <h3>🍔 LancheFácil </h3>
+      <h3>🍔 LancheFácil Landing</h3>
       <img src="https://raw.githubusercontent.com/erkbritto/erkbritto/main/images/landing%20lanchefacil.png" width="95%" style="border-radius:8px;">
       <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Framer Motion • Lucide React • localStorage • CSS Gradients</p>
     </td>
@@ -179,7 +189,7 @@ Landing pages de alta conversão e performance, cada uma com stack moderna e des
 ### 🏆 Certifications & Continuous Learning
 
 - 🎓 **B.Sc. in Computer Science** – University  
-- ☁️ **Desenvolvedor fullstack** - IMPACTA TECNOLOGIA
+- ☁️ **Desenvolvedor fullstack** – IMPACTA TECNOLOGIA
 - 🤖 **Deep Learning Specialization** – deeplearning.ai  
 - 🔧 **N8N Automation Expert** 
 
