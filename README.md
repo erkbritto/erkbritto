@@ -136,9 +136,11 @@
 
 <br>
 
-#### 📊 Dashboard TR SYS (Call Center) – Plataforma de gestão de cobrança e desempenho
-**Intelligence center for call centers** – métricas em tempo real, desempenho da equipe, resultados financeiros, comunicação e conversões.  
-**Stack:** React • TypeScript • MySQL • OracleDB • Express • React Query • FastAPI • ETL
+#### 📊 Dashboard TR SYS (Call Center) – Plataforma de monitoramento de cobrança
+
+**Sistema enterprise para gestão operacional de cobrança**, com 6 abas (Visão Geral, Comunicação, Negociação, Financeiro, Chamadas, Metas), autenticação por perfis (Diretoria, Supervisor, ADM), cache hierárquico, paralelismo de 45+ procedures MySQL, integração com SMS/Zapsign/Vonix, e dashboards em tempo real para equipes e empresas (OPENCOB, PROCRED, GERAL).
+
+**Stack completa:** React 18 • TypeScript • Vite • Tailwind CSS • Radix UI • Recharts • React Router 7 • React Hook Form • Zod • next-themes • Node.js • Express 4 • MySQL2 • bcryptjs • Compression • Helmet • Winston • Swagger UI • JWT • CORS • Cache hierárquico (TTL variável) • Paralelismo com Promise.allSettled
 
 <table width="100%" border="0" cellpadding="8" cellspacing="0">
   <tr>
@@ -182,7 +184,7 @@ Landing pages de alta conversão e performance, cada uma com stack moderna e des
       <p><strong>Stack:</strong> React 18 • TypeScript • Vite • Tailwind • shadcn/ui • Radix UI • Lucide React • React Hook Form • Zod • React Router DOM • TanStack Query • Next Themes • Sonner • Recharts • Embla Carousel • Vaul • Cmdk • date-fns • ESLint • Bun/npm</p>
     </td>
   </tr>
-</table>
+<table>
 
 ---
 
